@@ -1,0 +1,28 @@
+estado_sigla,logistica_score,descricao_logistica
+AC,0.22,Sem porto | sem ferrovia | rodovia BR-317 com trechos precários
+AL,0.48,Porto de Maceió | sem ferrovia | BR-101 pavimentada
+AP,0.28,Porto de Santana | hidrovia do Amazonas | sem ferrovia
+AM,0.38,Porto de Manaus | hidrovia essencial | sem ferrovia terrestre
+BA,0.65,Porto de Aratu/Ilhéus | FCA ferrovia | BR-101/BR-116
+CE,0.62,Porto de Pecém/Mucuripe | sem ferrovia ativa | BR-116/BR-304
+DF,0.52,Sem porto | sem ferrovia | BR-020/BR-040 pavimentadas | SBBS aeroporto
+ES,0.72,Porto de Vitória | EFVM ferrovia | BR-101 excelente
+GO,0.58,Sem porto | FCA ferrovia | BR-153/BR-060
+MA,0.5,Porto de Itaqui (maior do NE) | EFC ferrovia | BR-010
+MT,0.48,Sem porto | sem ferrovia ativa principal | BR-163/BR-364
+MS,0.52,Sem porto marítimo | RFFSA hidrovia Paraná | BR-163/BR-262
+MG,0.78,Porto de Uberlândia/Ipatinga | MRS+FCA ferrovias | excelente malha
+PA,0.55,Porto de Belém/Barcarena | EFC ferrovia | BR-010 | rio Amazonas
+PB,0.5,Porto de Cabedelo | sem ferrovia ativa | BR-101/BR-230
+PR,0.85,Porto de Paranaguá (2º BR) | ALL ferrovia | BR-116/BR-376
+PE,0.68,Porto de Suape/Recife | TRANSNORDESTINA em obras | BR-101
+PI,0.42,Sem porto | TRANSNORDESTINA em obras | BR-316
+RJ,0.9,Porto do Rio/Itaguaí | MRS ferrovia | BR-101/BR-116 excelente
+RN,0.55,Porto de Natal/Areia Branca | sem ferrovia | BR-101/BR-304
+RS,0.8,Porto de Rio Grande/Porto Alegre | ALL ferrovia | BR-101/BR-116
+RO,0.35,Sem porto marítimo | sem ferrovia | BR-364 | hidrovia Madeira
+RR,0.2,Sem porto | sem ferrovia | BR-174 única saída | isolamento
+SC,0.82,Porto de Itajaí/Imbituba | ALL ferrovia | BR-101/BR-116
+SP,0.95,Porto de Santos (1º BR) | MRS+CPTM ferrovias | maior malha rodoviária
+SE,0.5,Porto de Aracaju | sem ferrovia | BR-101/BR-235
+TO,0.42,Sem porto | FNS ferrovia em obras | BR-153 Belém-Brasília

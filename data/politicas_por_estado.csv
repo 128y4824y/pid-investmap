@@ -1,0 +1,28 @@
+estado_sigla,politicas_publicas,descricao_politica
+AC,0.3,Bioeconomia inicial | BNDES baixo | sem lei específica
+AL,0.4,Biocomb. cana | BNDES baixo | leilões eólicos menores
+AP,0.28,Solar emergente | BNDES muito baixo
+AM,0.45,Bioeconomia amazônica | ZFM verde | BNDES médio
+BA,0.7,BNDES Polo Camaçari | leilões solares | programas estaduais
+CE,0.85,Lei H₂ Verde 2022 | líder leilões eólicos ANEEL | BNDES alto
+DF,0.45,Programa solar GDF | BNDES médio | hub regulatório
+ES,0.55,Programa Gerar 2021 | offshore eólico planejado | BNDES médio
+GO,0.5,Solar + biocombustível | BNDES médio
+MA,0.45,Potencial eólico | BNDES baixo | leilões recentes
+MT,0.4,Biocombustível | solar rural | BNDES médio
+MS,0.38,Biocombustível | BNDES baixo
+MG,0.6,BNDES hidrelétricas + biogás | mineração verde | leilões
+PA,0.48,COP30 2025 impulsionou | hidrelétricas | BNDES médio
+PB,0.5,Leilões eólicos | solar | BNDES médio
+PR,0.58,Programa H₂ Copel | bioenergia | BNDES alto
+PE,0.6,Porto Suape hub H₂ | ZPE H₂ verde | BNDES alto
+PI,0.75,Lei H₂ Verde 2022 | expansão solar acelerada
+RJ,0.5,Petrobras descarbonização | offshore | BNDES médio
+RN,0.82,Lei H₂ Verde 2023 | maior geração eólica per capita
+RS,0.55,Bioenergia | eólico offshore planejado | BNDES alto
+RO,0.35,Hidrelétricas | bioenergia | BNDES baixo
+RR,0.25,Solar início | BNDES muito baixo
+SC,0.52,Solar distribuído | biogás suíno | BNDES médio
+SP,0.65,Maior volume BNDES absoluto | programa solar empresarial
+SE,0.42,Gás natural | início solar | BNDES baixo
+TO,0.55,Palmas Solar 2015 (pioneiro) | hidrelétricas | BNDES médio
